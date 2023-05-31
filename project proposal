@@ -1,0 +1,14 @@
+Project Proposal
+
+Aria Sobhani, Siyona Suresh, Dannon Sanders, Christine Sanchez
+
+Our question is:
+How do changes in California temperatures between 2015-2018 influence the severity of wildfires that occur in California?
+We would like to investigate whether there is a correlation between the severity of wildfires in California and the temperatures of those
+
+We hypothesize that greater temperatures in California will lead to a greater severity of wildfires in California.
+
+From our data, we will gather information on burning acreage and the average temperature of the area, so we have two continous variables.
+These data points will be stored in dataframes. We would have around 2,400 observations. We would try to observe the average temperatures 
+in California counties and the acreage burnage in those California counties in the same months. 
+
