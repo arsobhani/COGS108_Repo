@@ -10,5 +10,5 @@ We hypothesize that greater temperatures in California will lead to a greater se
 
 From our data, we will gather information on burning acreage and the average temperature of the area, so we have two continous variables.
 These data points will be stored in dataframes. We would have around 2,400 observations. We would try to observe the average temperatures 
-in California counties and the acreage burnage in those California counties in the same months. 
+in California counties and the acreage burnage in those California counties in the same months, from 2015 to 2018.
 
